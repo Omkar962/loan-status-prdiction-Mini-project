@@ -1,1 +1,1 @@
-# loan-status-prdiction-Mini-project
+# loan-status-prediction-Mini-project
